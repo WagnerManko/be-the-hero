@@ -85,4 +85,6 @@ Em detalhes, será exibido além do que já se aprensentava na página anterior,
 
 Este projeto foi a minha primeira esperiência com a stack, a qual pretendo me aprofundar mais em seus conceitos.
 Sigo estudando e pretendo fazer melhorias de código e funcionalidades, porém ainda necessito de maior conhecimento familiaridade com a linguagem.
-Por fim, o projeto esta aberto para uso, melhorias e sugestões. _Create, Study and Improve!_ __{Manko}__
+Por fim, o projeto esta aberto para uso, melhorias e sugestões.
+
+_Create, Study and Improve!_ __{Manko}__
