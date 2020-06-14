@@ -44,13 +44,13 @@ Na página de cadastro, a ONG deve preencher os campos de nome, e-mail, número 
 ![](https://github.com/WagnerManko/be-the-hero/blob/master/Imagens_do_Projeto/cadastro_web.png)
 
 __ONG Page:__
-A página da ONG possibilita registrar e excluir casos, sendo necessáio um título, descrição e valor para cada postagem.
+A página da ONG possibilita registrar e excluir casos, sendo necessário um título, descrição e valor para cada postagem.
 ![](https://github.com/WagnerManko/be-the-hero/blob/master/Imagens_do_Projeto/ong_page.png)
 
 ### Versão Mobile
 
 __Loading:__
-Tela que exibe o logotipo enquanto a aplicação esta sendo carregada. <br>
+Tela que exibe o logotipo enquanto a aplicação está sendo carregada. <br>
 <img src="https://github.com/WagnerManko/be-the-hero/blob/master/Imagens_do_Projeto/loading_mobile.jpeg" height="560" width="300">
 
 __Home Mobile:__
@@ -58,7 +58,7 @@ Na tela home, o doador pode visualizar os casos existentes e acessar os detalhes
 <img src="https://github.com/WagnerManko/be-the-hero/blob/master/Imagens_do_Projeto/home_mobile.jpeg" height="560" width="300">
 
 __Detalhes do Caso:__
-Em detalhes, será exibido além do que já se aprensentava na página anterior, o acesso aos contatos da ONG. <br>
+Em detalhes, será exibido além do que já se apresentava na página anterior, o acesso aos contatos da ONG. <br>
 <img src="https://github.com/WagnerManko/be-the-hero/blob/master/Imagens_do_Projeto/details_mobile.jpeg" height="560" width="300">
 
 <hr>
