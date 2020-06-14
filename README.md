@@ -83,8 +83,8 @@ Em detalhes, será exibido além do que já se aprensentava na página anterior,
 
 ## Finalizando
 
-Este projeto foi a minha primeira esperiência com a stack, a qual pretendo me aprofundar mais em seus conceitos.
+Este projeto foi a minha primeira experiência com a stack, a qual pretendo me aprofundar mais em seus conceitos.
 Sigo estudando e pretendo fazer melhorias de código e funcionalidades, porém ainda necessito de maior conhecimento familiaridade com a linguagem.
-Por fim, o projeto esta aberto para uso, melhorias e sugestões.
+Por fim, o projeto está aberto para uso, melhorias e sugestões.
 
 _Create, Study and Improve!_ __{Manko}__
