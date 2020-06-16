@@ -5,11 +5,17 @@ Projeto da Semana OmniStack 11.0 da RocketSeat
 
 ## Índice
 
- -- Pendente...
+ - <a href="#Sobre" style="color:black">__Sobre a Aplicação__</a>
+ - __Disponível na Web__
+ - __Páginas da Aplicação__
+ - __Instalação Local do Projeto__
+ - __Problemas Conhecidos__
+ - __Melhorias__
+ - __Finalizando__
 
 <hr>
 
-## Sobre a Aplicação
+<div id="Sobre">## Sobre a Aplicação</div>
 
 __Objetivo:__
 App desenvolvido para aproximar ONGs e doadores no tratamento de animais feriados.
