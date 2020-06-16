@@ -14,7 +14,9 @@ Projeto da Semana OmniStack 11.0 da RocketSeat
  - <a href="#Finalizando">__Finalizando__</a>
 
 <hr>
+
 <div id="Sobre"></div>
+
 ## Sobre a Aplicação
 
 __Objetivo:__
@@ -30,13 +32,17 @@ __Banco de Dados:__
 SQLite3
 
 <hr>
+
 <div id="NaWeb"></div>
+
 ## Disponível na Web:
 
  -- Pendente...
 
 <hr>
+
 <div id="Paginas"></div>
+
 ## Páginas da Aplicação
 
 ### Versão Web
@@ -68,25 +74,33 @@ Em detalhes, será exibido além do que já se apresentava na página anterior, 
 <img src="https://github.com/WagnerManko/be-the-hero/blob/master/Imagens_do_Projeto/details_mobile.jpeg" height="560" width="300">
 
 <hr>
+
 <div id="Instalacao"></div>
+
 ## Instalação Local do Projeto
 
  -- Pendente...
  
 <hr>
+
 <div id="Problemas"></div>
+
 ## Problemas Conhecidos
 
  -- Pendente ...
  
 <hr>
+
 <div id="Melhorias"></div>
+
 ## Melhorias
 
  -- Pendente ...
  
 <hr>
+
 <div id="Finalizando"></div>
+
 ## Finalizando
 
 Este projeto foi a minha primeira experiência com a stack, a qual pretendo me aprofundar mais em seus conceitos.
