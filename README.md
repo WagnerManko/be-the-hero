@@ -6,16 +6,16 @@ Projeto da Semana OmniStack 11.0 da RocketSeat
 ## Índice
 
  - <a href="#Sobre">__Sobre a Aplicação__</a>
- - __Disponível na Web__
- - __Páginas da Aplicação__
- - __Instalação Local do Projeto__
- - __Problemas Conhecidos__
- - __Melhorias__
- - __Finalizando__
+ - <a href="#NaWeb">__Disponível na Web__</a>
+ - <a href="#Paginas">__Páginas da Aplicação__</a>
+ - <a href="#Instalacao">__Instalação Local do Projeto__</a>
+ - <a href="#Problemas">__Problemas Conhecidos__</a>
+ - <a href="#Melhorias">__Melhorias__</a>
+ - <a href="#Finalizando">__Finalizando__</a>
 
 <hr>
-
-## Sobre a Aplicação <div id="Sobre"></div>
+<div id="Sobre"></div>
+## Sobre a Aplicação
 
 __Objetivo:__
 App desenvolvido para aproximar ONGs e doadores no tratamento de animais feriados.
@@ -30,13 +30,13 @@ __Banco de Dados:__
 SQLite3
 
 <hr>
-
+<div id="NaWeb"></div>
 ## Disponível na Web:
 
  -- Pendente...
 
 <hr>
-
+<div id="Paginas"></div>
 ## Páginas da Aplicação
 
 ### Versão Web
@@ -68,25 +68,25 @@ Em detalhes, será exibido além do que já se apresentava na página anterior, 
 <img src="https://github.com/WagnerManko/be-the-hero/blob/master/Imagens_do_Projeto/details_mobile.jpeg" height="560" width="300">
 
 <hr>
-
+<div id="Instalacao"></div>
 ## Instalação Local do Projeto
 
  -- Pendente...
  
 <hr>
-
+<div id="Problemas"></div>
 ## Problemas Conhecidos
 
  -- Pendente ...
  
 <hr>
-
+<div id="Melhorias"></div>
 ## Melhorias
 
  -- Pendente ...
  
 <hr>
-
+<div id="Finalizando"></div>
 ## Finalizando
 
 Este projeto foi a minha primeira experiência com a stack, a qual pretendo me aprofundar mais em seus conceitos.
