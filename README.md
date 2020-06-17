@@ -80,7 +80,7 @@ Em detalhes, será exibido além do que já se apresentava na página anterior, 
 ## Instalação Local do Projeto
 
 ### Linux & Mac
-Para efetuar a instalação local do projeto, você precisa ter o <a href="https://git-scm.com/" target="_blank">Git</a> instalado em seu computador, agora basta copiar o link da aba 'Clone' do repositório aqui no Github, abrir o seu terminal na pasta onde deseja clonar o repositório, iniciar o git com o comando 'git clone https://github.com/WagnerManko/be-the-hero.git'. Para executar o projeto, primeiro acesse a pasta backend, pelo terminal execute o comando 'npm install', após isso vocês já pode use o comando 'npm start' para inicar o backend da aplicação. Para o frontend e mobile, execute o mesmo procedimento, alterando apenas o 'npm start' para 'expo start' para o caso do Mobile. Obs.: A aplicação Mobile foi criada e testada via <a href="https://expo.io/tools" target="_blank">Expo e Expo Client</a>.
+Para efetuar a instalação local do projeto, você precisa ter o <a href="https://git-scm.com/" target="_blank">Git</a> instalado em seu computador, agora basta copiar o link da aba 'Clone' do repositório aqui no Github, abrir o seu terminal na pasta onde deseja clonar o repositório, iniciar o git com o comando 'git clone LINK_REPOSITORIO'. Para executar o projeto, primeiro acesse a pasta backend, pelo terminal execute o comando 'npm install', após isso vocês já pode use o comando 'npm start' para inicar o backend da aplicação. Para o frontend e mobile, execute o mesmo procedimento, alterando apenas o 'npm start' para 'expo start' para o caso do Mobile. Obs.: A aplicação Mobile foi criada e testada via <a href="https://expo.io/tools" target="_blank">Expo e Expo Client</a>.
 
 ### Windows
 
