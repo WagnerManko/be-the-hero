@@ -112,4 +112,4 @@ Este projeto foi a minha primeira experiência com a stack, a qual pretendo me a
 Sigo estudando e pretendo fazer melhorias de código e funcionalidades, porém ainda necessito de maior conhecimento familiaridade com a linguagem.
 Por fim, o projeto está aberto para uso, melhorias e sugestões.
 
-_Create, Study and Improve!_ <a href="https://www.linkedin.com/in/wagner-mengue-898892172/" target="_blank">__{Manko}__</a>
+_Create, Study and Improve!_ <a href="https://www.linkedin.com/in/wagner-mengue-898892172/" target="_blank"><b>{Manko}</b></a>
